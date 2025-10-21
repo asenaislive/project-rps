@@ -16,4 +16,4 @@ It features a responsive UI, score tracking, and a reset dialog for a fun and in
 ## 🚀 How to Run
 1. Clone this repository  
    ```bash
-   git clone https://github.com/<your-username>/RPS-Clash-of-Champions.git
+   git clone https://github.com/asenaislive/RPS-Clash-of-Champions.git
